@@ -7,6 +7,7 @@
     while i fix dependency issues.
 </p>
 
+<p> npm run dev </p>
 
 <h1>Tech Stack</h1>
 <ul>
