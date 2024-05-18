@@ -17,5 +17,10 @@
   <li>react-three/drei</li>
   <li>react</li>
 </ul>  
-docker build -t your-image-name .
-docker run -p 3002:3000 your-image-name
+
+<h1>Install and run</h1>
+<ul>
+  <li>docker build -t your-image-name .</li>
+  <li>docker run -p 3002:3000 your-image-name</li>
+</ul>  
+
